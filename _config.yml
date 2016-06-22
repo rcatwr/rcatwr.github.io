@@ -9,15 +9,15 @@
 #
 
 # Title and description of your site
-title:        'Simplicity'
-description:  'Simplicity is a fast and easy to use jekyll theme for minimalists concentrating on elegance and flexibility.'
-slogan:       'A Minimalistic Jekyll Theme'
+title:        'Richard Minardi'
+description:  'This is my personal site'
+slogan:       'Sound, maps, and scratchy little drawings'
 
 
 # Build settings
-url:          'https://phlow.github.io/simplicity'
+url:          'https://rcatwr.github.io'
 baseurl:      ''
-urlimg:       'https://phlow.github.io/simplicity/images/'
+urlimg:       'https://rcatwr.github.io/images/'
 markdown:     kramdown
 highlighter:  rouge
 permalink:    /:categories/:title/
@@ -95,7 +95,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: false  # Hide metadata for all pages
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for pages
+      author: 'RM'     # Default author for pages
   -
     scope:
       path: ''
@@ -104,7 +104,7 @@ defaults:
       layout: page      # Set default layout to page
       show_meta: true   # Show metadata for all posts
       comments: false
-      author: 'Moritz »mo.« Sauer'     # Default author for posts
+      author: 'RM'     # Default author for posts
 
 
 
@@ -114,7 +114,7 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+# google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
 # bing_webmastertools_id:  ''
 # alexa_verify_id:         ''
 
@@ -190,9 +190,9 @@ sass:
 # _/includes/_4_footer.html.
 
 socialmedia:
-    youtube: PhlowMedia
-    github: phlow
-    twitter: phlow
+    youtube: Are Emm
+    github: rcatwr
+    twitter: rcatwr
     # facebook: phlow.media
     # soundcloud: phlow
     # tumblr: motizen
