@@ -15,9 +15,9 @@ slogan:       'Sound, maps, and scratchy little drawings'
 
 
 # Build settings
-url:          'https://rcatwr.github.io'
+url:          'https://rcatwr.github.io/rcatwr.github.io'
 baseurl:      ''
-urlimg:       'https://rcatwr.github.io/images/'
+urlimg:       'https://rcatwr.github.io/rcatwr.github.io/images/'
 markdown:     kramdown
 highlighter:  rouge
 permalink:    /:categories/:title/
