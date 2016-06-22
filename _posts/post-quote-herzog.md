@@ -1,9 +1,5 @@
 ---
-#
-# Quotes only need quote in front matter. If you want to
-# link to the source of your quote, add url. The full
-# quote will be linked.
-#
-quote: '<cite>I am a conquistador of the useless - Werner Herzog</cite>'
-quote_url: ''
+subheadline: 'Words Of Wisdom'
+quote: 'I am a conquistador of the useless. <cite>Werner Herzog</cite>'
+quote_url: 'http://www.wernerherzog.com'
 ---
