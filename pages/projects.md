@@ -1,6 +1,5 @@
 ---
-title: ''
-image: ''
+title: 'Work'
 permalink: /projects/
 ---
 Here are some links to some things I made:
