@@ -1,0 +1,9 @@
+1. make a subfolder with project pages and descriptions?
+2. embed my code stuff in the website itself
+3. create a bunch of thumbnails instead of a list.
+4. put a picture of me on it?
+
+Issues: why does the quote subtitle appear twice when you hover over it -- when its the last on the list?
+
+--fix that.
+
