@@ -3,13 +3,12 @@ subheadline: 'Info'
 title: 'Hello!'
 permalink: /info/
 ---
-My name is Rich and I am a web developer by trade. 
+My name is Rich and I am a web developer living in Victoria, BC. 
 
 <!--more-->
 
-I set this up as a place to store and show off all my stuffs.
+I set this up as a place to store some of my projects. Click the menu above to see some work.
 
 
 ## Thank you for visiting
 
-Enjoy your time, and see you around

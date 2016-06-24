@@ -1,14 +1,15 @@
-- name: "Getting Started"
-  url: "/getting-started/"
 
-- name: "What's special about <em>Simplicity</em>?"
-  url: "/about-simplicity/"
+
+
+- name: "About Me"
+  url: "/info/"
+
+- name: "My Work"
+  url: "/projects/"
+  
+- name: "Send me a message!"
+  url: "/contact/"
 
 - name: "All Articles"
   url: "/archive/"
 
-- name: "Why I designed <em>Simplicity</em>"
-  url: "/info/"
-
-- name: "Style Guide"
-  url: "/style-guide/"
