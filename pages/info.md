@@ -1,6 +1,6 @@
 ---
 subheadline: 'Info'
-title: 'Hello!'
+title: ''
 permalink: /info/
 ---
 My name is Rich and I am a web developer living in Victoria, BC. 
